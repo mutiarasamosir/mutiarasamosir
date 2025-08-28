@@ -32,7 +32,8 @@
 
 ## 📫 Contact Me
 - Email: mutiarasamosir302@gmail.com  
-- LinkedIn: [mutiarasamosir](www.linkedin.com/in/mutiara-m-samosir/)  
+- LinkedIn:(https://www.linkedin.com/in/mutiara-m-samosir-539a60286/)
+  
 
 
 ---
