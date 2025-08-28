@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hey there! 👋 I'm Mutiara Samosir
 
-<!--
-**mutiarasamosir/mutiarasamosir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Turning data into stories 📊💡  
+> Student of **Data Science @ UPN Veteran Jawa Timur**  
+> Passionate about building projects that help people 🌱
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech & Tools
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=microsoft-power-bi&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## 🌱 Currently Learning
+- Advanced Data Modeling 📈  
+- Interactive Dashboards 🖥️  
+- AI & Predictive Analytics 🤖  
+
+---
+
+## 📂 Projects
+- **Sleep Health Analysis** – exploring lifestyle & sleep patterns 🛌  
+- **Flight Booking DB** – building integrated database systems ✈️  
+- **Reforestation Data Project** – analyzing forest restoration data 🌳  
+
+> More projects on [GitHub repos](https://github.com/mutiarasamosir?tab=repositories)
+
+---
+
+## 📫 Contact Me
+- Email: mutiarasamosir@example.com  
+- LinkedIn: [mutiarasamosir](https://www.linkedin.com/in/mutiarasamosir)  
+- Twitter: [@mutiarasamosir](https://twitter.com/mutiarasamosir)  
+
+---
+
+![Mutiara's GitHub stats](https://github-readme-stats.vercel.app/api?username=mutiarasamosir&show_icons=true&theme=dracula&count_private=true)
