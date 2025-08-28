@@ -1,7 +1,7 @@
 # Hey there! 👋 I'm Mutiara Samosir
 
 > Turning data into stories 📊💡  
-> Student of **Data Science @ UPN Veteran Jawa Timur**  
+> Student of **Data Science at UPN Veteran Jawa Timur**  
 > Passionate about building projects that help people 🌱
 
 ---
@@ -31,9 +31,9 @@
 ---
 
 ## 📫 Contact Me
-- Email: mutiarasamosir@example.com  
-- LinkedIn: [mutiarasamosir](https://www.linkedin.com/in/mutiarasamosir)  
-- Twitter: [@mutiarasamosir](https://twitter.com/mutiarasamosir)  
+- Email: mutiarasamosir302@gmail.com  
+- LinkedIn: [mutiarasamosir](www.linkedin.com/in/mutiara-m-samosir)  
+
 
 ---
 
